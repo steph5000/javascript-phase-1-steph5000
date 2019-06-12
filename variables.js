@@ -5,4 +5,4 @@ var currentage = 24;
 var maxage = 100;
 var amount = 3;
 var total = 300;
-console.log("you will need" + "" + total + "" + "to last until your ripe old age" + "" + maxage;
+console.log("you will need" + "" + total + "" + "to last you until your ripe old age ofypu " + "" + maxage;
